@@ -6,6 +6,16 @@
 
 参考 Flux Timer 的紧凑计时交互，固定在当前笔记内容区顶部居中。倒计时可同时运行；正向计时共用单任务后台，支持横排与竖排；控件跟随 Obsidian 的浅色 / 深色主题。
 
+## 截图
+
+| 正向计时 | 倒计时与快捷预设 |
+| --- | --- |
+| ![正向计时面板](images/stopwatch-panel.png) | ![倒计时面板与预设](images/countdown-panel.png) |
+
+计时结束后写入 Markdown 记录文档，按日期分组并汇总当日累计：
+
+![Markdown 用时记录](images/markdown-log.png)
+
 ## 更新与使用
 
 在 Obsidian 第三方插件中关闭再开启 fluxtimer，加载新版。

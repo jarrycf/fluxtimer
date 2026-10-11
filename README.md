@@ -4,6 +4,16 @@ English · [中文](README.zh-CN.md)
 
 Compact countdown and stopwatch timers pinned to the top of the active note, with Markdown time logs and a built-in task time tracker. Desktop only.
 
+## Screenshots
+
+| Stopwatch | Countdown with presets |
+| --- | --- |
+| ![Stopwatch panel](images/stopwatch-panel.png) | ![Countdown panel with presets](images/countdown-panel.png) |
+
+Finished timers are logged to a Markdown note, grouped by date with a daily total:
+
+![Markdown time log](images/markdown-log.png)
+
 ## Features
 
 - **Countdowns and stopwatches** shown as small rings at the top center of the note. Several countdowns can run at once; stopwatches share a single task tracker.
