@@ -1,0 +1,10 @@
+{
+  "id": "fluxtimer",
+  "name": "FluxTimer",
+  "version": "4.3.0",
+  "minAppVersion": "1.7.2",
+  "description": "Compact countdown and stopwatch timers pinned above your notes, with Markdown time logs and built-in task time tracking.",
+  "author": "jarrycf",
+  "authorUrl": "https://github.com/jarrycf",
+  "isDesktopOnly": true
+}
